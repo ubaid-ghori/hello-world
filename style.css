@@ -4,3 +4,6 @@ img{
     display: block;
     margin: auto;
 }
+p{
+    text-decoration: line-through;
+}
